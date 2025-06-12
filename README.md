@@ -17,8 +17,8 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorborro15&show_icons=true&theme=black)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorborro15&layout=compact&theme=black)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorborro15&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorborro15&layout=compact&theme=tokyonight)
 
 ---
 
